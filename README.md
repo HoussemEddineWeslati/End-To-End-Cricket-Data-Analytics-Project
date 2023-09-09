@@ -28,7 +28,7 @@
         <li>Analyze cricket player statistics and gain insights.</li>
     </ol>
 
-    <h2>Dependencies</h2>
+<h2 align="left">Dependencies</h2>
     <ul align="left">
         <li>Python libraries (for web scraping and data preprocessing)</li>
         <li>Jupyter Notebook</li>
